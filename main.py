@@ -12,3 +12,5 @@ def hollow_triangle(n):
 # Para imprimir un triángulo hueco de altura x
 print("¿Qué altura tendrá nuestro triángulo?")
 hollow_triangle(int(input()))
+
+print("hola")
